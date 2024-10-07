@@ -1,0 +1,126 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AdminInterface",
+            "request": "launch",
+            "mainClass": "gui.AdminInterface",
+            "projectName": "Gymmaster_f9464522"
+        },
+        {
+            "type": "java",
+            "name": "UserInterface",
+            "request": "launch",
+            "mainClass": "gui.UserInterface",
+            "projectName": "Gymmaster_f9464522"
+        },
+        {
+            "type": "java",
+            "name": "ReclamationAgentInterface",
+            "request": "launch",
+            "mainClass": "gui.ReclamationAgentInterface",
+            "projectName": "Gymmaster_f9464522"
+        },
+        {
+            "type": "java",
+            "name": "ReclamationInterfaceClient",
+            "request": "launch",
+            "mainClass": "gui.ReclamationInterfaceClient",
+            "projectName": "Gymmaster_f9464522"
+        },
+        {
+            "type": "java",
+            "name": "UserInterface",
+            "request": "launch",
+            "mainClass": "test.UserInterface",
+            "projectName": "Gymmaster_53ea7d69",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "UserInterface",
+            "request": "launch",
+            "mainClass": "test.UserInterface",
+            "projectName": "Gymmaster_64d59d6f",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "GeneralReclamation",
+            "request": "launch",
+            "mainClass": "gui.GeneralReclamation",
+            "projectName": "Gymmaster_64d59d6f",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ReclamationInterfaceClient",
+            "request": "launch",
+            "mainClass": "gui.ReclamationInterfaceClient",
+            "projectName": "Gymmaster_64d59d6f",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ReclamationAgentInterface",
+            "request": "launch",
+            "mainClass": "gui.ReclamationAgentInterface",
+            "projectName": "Gymmaster_64d59d6f",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "test.Main",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "AdminDashboard",
+            "request": "launch",
+            "mainClass": "test.AdminDashboard",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "GeneralReclamation",
+            "request": "launch",
+            "mainClass": "gui.GeneralReclamation",
+            "projectName": "Reclamations_468b2ed2",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ReclamationInterfaceClient",
+            "request": "launch",
+            "mainClass": "gui.ReclamationInterfaceClient",
+            "projectName": "Reclamations_468b2ed2",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ReclamationAgentInterface",
+            "request": "launch",
+            "mainClass": "gui.ReclamationAgentInterface",
+            "projectName": "Reclamations_468b2ed2",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Reclamations_468b2ed2",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ReclamationInterface",
+            "request": "launch",
+            "mainClass": "gui.ReclamationInterface",
+            "projectName": "Reclamations_468b2ed2",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.9/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

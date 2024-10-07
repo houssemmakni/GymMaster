@@ -1,0 +1,11 @@
+# config/packages/swiftmailer.yaml
+
+swiftmailer:
+    transport: smtp
+    host: 'smtp.gmail.com'
+    port: 587
+    encryption: tls
+    username: 'timekiller147@gmail.com'
+    password: 'aevt tfzm esyq mpbm'
+    auth-mode: login
+    spool: { type: 'memory' } # Use memory spool for immediate sending

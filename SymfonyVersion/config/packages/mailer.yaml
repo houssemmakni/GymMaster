@@ -1,0 +1,4 @@
+framework:
+    mailer:
+        dsn: 'smtp://timekiller147@gmail.com:aevt tfzm esyq mpbm@smtp.gmail.com?encryption=tls&auth_mode=login'
+        

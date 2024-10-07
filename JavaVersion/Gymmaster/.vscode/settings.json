@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx.media.jar",
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx.swing.jar",
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx.base.jar",
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx.web.jar",
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx.graphics.jar",
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx-swt.jar",
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx.controls.jar",
+        "c:\\javafx-sdk-17.0.9\\lib\\javafx.fxml.jar",
+        "c:\\Users\\houss\\Desktop\\tfach\\Connector J 8.0\\mysql-connector-j-8.0.33.jar",
+        "c:\\Users\\houss\\Desktop\\ALL THE REST\\Pi FINAL\\Integration JAVA\\Jars\\commons-logging-1.2.jar",
+        "c:\\Users\\houss\\Desktop\\ALL THE REST\\Pi FINAL\\Integration JAVA\\Jars\\controlsfx-8.40.14.jar",
+        "c:\\Users\\houss\\Desktop\\ALL THE REST\\Pi FINAL\\Integration JAVA\\Jars\\fontawesomefx-8.9.jar",
+        "c:\\Users\\houss\\Desktop\\ALL THE REST\\Pi FINAL\\Integration JAVA\\Jars\\fontbox-3.0.0.jar",
+        "c:\\Users\\houss\\Desktop\\ALL THE REST\\Pi FINAL\\Integration JAVA\\Jars\\itextpdf-5.1.0.jar",
+        "c:\\Users\\houss\\Desktop\\ALL THE REST\\Pi FINAL\\Integration JAVA\\Jars\\pdfbox-3.0.0.jar",
+        "c:\\Users\\houss\\Desktop\\ALL THE REST\\Pi FINAL\\Integration JAVA\\Jars\\pdfbox-io-3.0.0.jar"
+    ]
+}

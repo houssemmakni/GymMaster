@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="570.0" prefWidth="833.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.UserInterfaceController">
+   <children>
+      <AnchorPane prefHeight="570.0" prefWidth="250.0" style="-fx-background-color: #FAEBD7;" stylesheets="@../style/UserInterfaceStyle.css">
+         <children>
+            <Button fx:id="ExitBtn" layoutX="15.0" layoutY="501.0" mnemonicParsing="false" onAction="#HandleExitBtn" prefHeight="41.0" prefWidth="61.0" styleClass="styled-button" stylesheets="@../style/UserInterfaceStyle.css" text="Exit" />
+            <Button fx:id="ShopBtn" layoutX="54.0" layoutY="241.0" mnemonicParsing="false" onAction="#HandleShopBtn" prefHeight="55.0" prefWidth="143.0" styleClass="styled-button" stylesheets="@../style/UserInterfaceStyle.css" text="Shop Now" />
+            <Button fx:id="ReclamationBtn" layoutX="37.0" layoutY="374.0" mnemonicParsing="false" onAction="#HandleReclamationBtn" styleClass="styled-button" stylesheets="@../style/UserInterfaceStyle.css" text="Contact Us Now" />
+            <Label layoutX="61.0" layoutY="68.0" prefHeight="55.0" prefWidth="129.0" text="GymMaster" textFill="#462a2a">
+               <font>
+                  <Font name="Berlin Sans FB Demi Bold" size="25.0" />
+               </font></Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="250.0" prefHeight="570.0" prefWidth="584.0" styleClass="root" stylesheets="@../style/UserInterfaceStyle.css">
+         <children>
+            <Label layoutX="37.0" layoutY="251.0" prefHeight="68.0" prefWidth="510.0" text="Welcome Dear Customer" textFill="#462a2a">
+               <font>
+                  <Font size="46.0" />
+               </font></Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

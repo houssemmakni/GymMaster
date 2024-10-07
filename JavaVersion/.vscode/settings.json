@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Jars/commons-logging-1.2.jar",
+        "Jars/controlsfx-8.40.14.jar",
+        "Jars/fontawesomefx-8.9.jar",
+        "Jars/fontbox-3.0.0.jar",
+        "Jars/itextpdf-5.1.0.jar",
+        "Jars/pdfbox-3.0.0.jar",
+        "Jars/pdfbox-io-3.0.0.jar"
+    ]
+}
